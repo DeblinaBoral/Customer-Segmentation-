@@ -44,14 +44,8 @@ Customer segmentation helps businesses:
 
 ---
 
-## 🚀 **How to Run the Project**  
-
-1. **Clone the Repository:**  
-   ```bash  
-   git clone https://github.com/your-username/customer-segmentation.git  
-   cd customer-segmentation  
-🎉 Results
-Customers were grouped into 5 unique clusters, each with distinct purchasing patterns.
-Insights can be used for targeted marketing strategies and customer-centric improvements. 
+## 🔧 **Results** 
+-Customers were grouped into 5 unique clusters, each with distinct purchasing patterns.
+-Insights can be used for targeted marketing strategies and customer-centric improvements. 
 
  
