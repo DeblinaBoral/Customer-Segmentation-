@@ -19,18 +19,7 @@ Customer segmentation helps businesses:
 - Applied **K-means Clustering** to create **5 customer segments**.  
 - **Visualized Clusters** for actionable insights.  
 
----
-
-
----
-
-## 🖼️ **Sample Outputs**  
-
-### Elbow Point Graph 📈  
-<img src="C:\Users\DEBLINA BORAL\Downloads\Elbow Graph.png" alt="Elbow Graph" width="400">  
-
-### Cluster Visualization 🎨  
-<img src="images/cluster_plot.png" alt="Cluster Plot" width="400">  
+--- 
 
 ---
 
@@ -44,8 +33,8 @@ Customer segmentation helps businesses:
 
 ---
 
-## 🔧 **Results** 
-   -Customers were grouped into 5 unique clusters, each with distinct purchasing patterns.
-   -Insights can be used for targeted marketing strategies and customer-centric improvements. 
+##  **Results** 
+  1. Customers were grouped into 5 unique clusters, each with distinct purchasing patterns.
+  2. Insights can be used for targeted marketing strategies and customer-centric improvements. 
 
  
