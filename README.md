@@ -27,7 +27,7 @@ Customer segmentation helps businesses:
 ## 🖼️ **Sample Outputs**  
 
 ### Elbow Point Graph 📈  
-<img src="images/elbow_graph.png" alt="Elbow Graph" width="400">  
+<img src=""C:\Users\DEBLINA BORAL\Downloads\Elbow Graph.png"" alt="Elbow Graph" width="400">  
 
 ### Cluster Visualization 🎨  
 <img src="images/cluster_plot.png" alt="Cluster Plot" width="400">  
