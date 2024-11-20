@@ -21,8 +21,6 @@ Customer segmentation helps businesses:
 
 --- 
 
----
-
 ## 🔧 **Technologies Used**  
 
 - **Programming Language:** Python 🐍  
