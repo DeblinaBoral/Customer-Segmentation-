@@ -45,7 +45,7 @@ Customer segmentation helps businesses:
 ---
 
 ## 🔧 **Results** 
--Customers were grouped into 5 unique clusters, each with distinct purchasing patterns.
--Insights can be used for targeted marketing strategies and customer-centric improvements. 
+   -Customers were grouped into 5 unique clusters, each with distinct purchasing patterns.
+   -Insights can be used for targeted marketing strategies and customer-centric improvements. 
 
  
