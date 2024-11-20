@@ -21,11 +21,37 @@ Customer segmentation helps businesses:
 
 ---
 
-<h2 align="center" style="color: #17A589;">📂 Repository Structure</h2>  
 
-```plaintext  
-├── 📁 data/          # Contains dataset files  
-├── 📁 images/        # Visualizations like elbow graph and cluster plots  
-├── 📁 notebooks/     # Jupyter notebooks for detailed implementation  
-├── 📁 src/           # Python scripts for modeling and visualization  
-├── README.md         # Project documentation  
+---
+
+## 🖼️ **Sample Outputs**  
+
+### Elbow Point Graph 📈  
+<img src="images/elbow_graph.png" alt="Elbow Graph" width="400">  
+
+### Cluster Visualization 🎨  
+<img src="images/cluster_plot.png" alt="Cluster Plot" width="400">  
+
+---
+
+## 🔧 **Technologies Used**  
+
+- **Programming Language:** Python 🐍  
+- **Libraries:**  
+  - `sklearn` for K-means algorithm  
+  - `pandas` and `numpy` for data manipulation  
+  - `matplotlib` and `seaborn` for visualizations  
+
+---
+
+## 🚀 **How to Run the Project**  
+
+1. **Clone the Repository:**  
+   ```bash  
+   git clone https://github.com/your-username/customer-segmentation.git  
+   cd customer-segmentation  
+🎉 Results
+Customers were grouped into 5 unique clusters, each with distinct purchasing patterns.
+Insights can be used for targeted marketing strategies and customer-centric improvements. 
+
+ 
